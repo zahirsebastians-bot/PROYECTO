@@ -3,7 +3,7 @@ UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
 	FACULTAD DE ESTUDIOS SUPERIORES -ARAGON-
      hola Profesor Aaron
 	Computadoras y programacion.
-	(c) Zahir Sebastian Sanchez Martinez 323018520
+	(c) Zahir Sebastian Sanchez Martinez 323018520 za
 	Quiso decir: Programa principal de la aplicacion de la distancia de Levenstein.
 
 ******************************************************************************************************************/
@@ -361,6 +361,7 @@ void ClonaPalabras(
 		}
 	}
 }
+
 
 
 
