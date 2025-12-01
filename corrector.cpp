@@ -1,5 +1,5 @@
 /*****************************************************************************************************************
-	UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
 	FACULTAD DE ESTUDIOS SUPERIORES -ARAGON-
      hola
 	Computadoras y programacion.
@@ -361,4 +361,5 @@ void ClonaPalabras(
 		}
 	}
 }
+
 
